@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/ruszk/Google Drive/Learning/CodeInstitute/cn03-go-helloworld","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
